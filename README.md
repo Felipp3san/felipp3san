@@ -2,6 +2,7 @@
 
 Meu nome é Felippe Santana.
 <br>
+<br>
 Atualmente sou aluno do curso de programação no IEFP de Braga/Portugal, e estou na busca pelo meu primeiro emprego na área de tecnologia.
 
 <br>
