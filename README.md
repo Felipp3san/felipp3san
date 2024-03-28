@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil 😀
 
-Meu nome é Felippe Santana.
+Meu nome é Felippe De Almeida Santana.
 <br>
 <br>
 Atualmente sou aluno do curso de programação no IEFP de Braga/Portugal.
