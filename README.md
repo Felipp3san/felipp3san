@@ -7,7 +7,7 @@ Through my projects, I explore memory management, process control, and performan
 In addition to my previously detailed skills, I also have hands-on experience with PHP (Laravel, Livewire), JavaScript (Node.js, Alpine.js), and MySQL/MongoDB. 
 I maintain a portfolio of small React projects, which I create to explore other areas of development and expand my skill set. You can check out my projects here:
 
-You can check out my React projects here: https://felippesantana.me
+You can check out my side projects here: https://felippesantana.me
 
 ---
 <!-- GITHUB STATUS -->
