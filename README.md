@@ -1,4 +1,4 @@
-Hello, i'm Felippe Santana! 👋
+# Hello, i'm Felippe Santana! 👋
 
 I am a full stack developer, with hands-on experience in technologies PHP (Laravel, Livewire), JavaScript (Node.js, Alpine.js) and MySQL/MongoDB. I'm constantly learning new technologies to stay updated with the market requirements and to refine my skills.
 
@@ -6,6 +6,7 @@ My current focus is on developing strong skills in C and C++, which I’m active
 
 <br>
 
+---
 <!-- GITHUB STATUS -->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipp3san&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
