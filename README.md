@@ -1,8 +1,13 @@
 # Hello, i'm Felippe Santana! 👋
 
-I am a student at 42 School and a working developer, focused on C and C++ programming, system-level projects, and embedded concepts. I actively use Linux systems, shell/command-line tools, Valgrind, GDB, and Makefiles to write efficient and reliable code.
+I am a student at 42 School, focused on C and C++ programming, with hands-on experience in low-level programming, system-level projects, and embedded concepts. I am actively learning and practicing tools like Valgrind, GDB, and Makefiles to write efficient and reliable code.
 
 Through my projects, I explore memory management, process control, and performance optimization, building a strong foundation in backend and systems development.
+
+In addition to my previously detailed skills, I also have hands-on experience with PHP (Laravel, Livewire), JavaScript (Node.js, Alpine.js), and MySQL/MongoDB. 
+I maintain a portfolio of small React projects, which I create to explore other areas of development and expand my skill set. You can check out my projects here:
+
+You can check out my React projects here: https://felippesantana.me
 
 ---
 <!-- GITHUB STATUS -->
@@ -12,8 +17,6 @@ Through my projects, I explore memory management, process control, and performan
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
-
-<br>
 
 <!-- REDES SOCIAIS -->
 <div align="center">
