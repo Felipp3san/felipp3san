@@ -1,6 +1,6 @@
 # Hello, i'm Felippe Santana! 👋
 
-I am a student at 42 School, focused on C and C++ programming, with hands-on experience in low-level programming, system-level projects, and embedded concepts. I am actively learning and practicing tools like Valgrind, GDB, and Makefiles to write efficient and reliable code.
+I am a student at 42 School, focused on C and C++ programming, where I am developing my skills in low-level programming, system-level projects, and embedded concepts. I am actively learning and practicing tools like Valgrind, GDB, and Makefiles to write efficient and reliable code.
 
 Through my projects, I explore memory management, process control, and performance optimization, building a strong foundation in backend and systems development.
 
