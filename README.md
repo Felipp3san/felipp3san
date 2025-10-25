@@ -1,4 +1,8 @@
-## Boas vindas ao meu perfil 😀
+Hello, i'm Felippe Santana! 👋
+
+I am a full stack developer, with hands-on experience in technologies PHP (Laravel, Livewire), JavaScript (Node.js, Alpine.js) and MySQL. I'm constantly learning new technologies to stay updated with the market requirements and to refine my skills.
+
+My current focus is on developing strong skills in C and C++, which I’m actively improving through rigorous low-level programming projects at 42 School.
 
 <br>
 
