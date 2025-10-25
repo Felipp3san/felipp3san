@@ -1,9 +1,8 @@
 # Hello, i'm Felippe Santana! 👋
 
-I am a full stack developer, with hands-on experience in technologies PHP (Laravel, Livewire), JavaScript (Node.js, Alpine.js) and database engines like MySQL/MongoDB. \
-I'm constantly learning new technologies to stay updated with the market requirements and to refine my skills.
+I am a student at 42 School, focused on C and C++ programming, with hands-on experience in low-level programming, system-level projects, and embedded concepts. I am actively learning and practicing tools like Valgrind, GDB, and Makefiles to write efficient and reliable code.
 
-My current focus is on developing strong skills in C and C++, which I’m actively improving through rigorous low-level programming projects at 42 School.
+Through my projects, I explore memory management, process control, and performance optimization, building a strong foundation in backend and systems development.
 
 ---
 <!-- GITHUB STATUS -->
